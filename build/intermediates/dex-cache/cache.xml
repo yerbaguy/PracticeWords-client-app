@@ -3,39 +3,21 @@
 
     <item
         is-multidex="true"
-        jar="/home/bartosz/Dokumenty/java_android/PracticeWords/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.0"
-        sha1="5990a5cc2207b162c9ba46e141e3b4d5fe6d958f">
-        <dex dex="/home/bartosz/Dokumenty/java_android/PracticeWords/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_a12e73ea4248073c8a15c0b01154c7fccc52c640/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/bartosz/Dokumenty/java_android/PracticeWords/app/libs/android-async-http-1.4.4.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.0"
-        sha1="3bae85a076241828810bf8fbcc12e5891d5fc34c">
-        <dex dex="/home/bartosz/Dokumenty/java_android/PracticeWords/app/build/intermediates/transforms/dex/debug/folders/1000/2/android-async-http-1.4.4_3791f8aeeff7336ace4609375ae5e8fd8e743c3d/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/home/bartosz/Dokumenty/java_android/PracticeWords/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jar="/home/bartosz/Dokumenty/java_android/PracticeExercise/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
         jumboMode="true"
         optimize="true"
         revision="26.0.0"
         sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
-        <dex dex="/home/bartosz/Dokumenty/java_android/PracticeWords/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_e62f84f1e337634488734196a89c033982ef30ff/classes.dex" />
+        <dex dex="/home/bartosz/Dokumenty/java_android/PracticeExercise/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_aa6fef858e2696a04bb8631d1c63f9b86ad8822a/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/root/.android/build-cache/bc46350f42b37f5bf0ff7c89dc47972f06adc4d4/output/jars/classes.jar"
+        jar="/home/bartosz/Dokumenty/java_android/PracticeExercise/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
         jumboMode="true"
         optimize="true"
         revision="26.0.0"
-        sha1="2cd4b982617e544728de0782d718a58ce1b06e3f">
-        <dex dex="/home/bartosz/Dokumenty/java_android/PracticeWords/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_34422e7b28caefc9dab1dd9066e15b808b235a81/classes.dex" />
+        sha1="cd3a8c8629346de651a7433b318b3f532583ff42">
+        <dex dex="/home/bartosz/Dokumenty/java_android/PracticeExercise/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_5dada728c154c3ef663211b364f399798fa62d54/classes.dex" />
     </item>
 
 </items>
