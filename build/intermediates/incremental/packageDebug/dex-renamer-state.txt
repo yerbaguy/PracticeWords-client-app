@@ -1,0 +1,7 @@
+#Sun Aug 27 15:22:42 CEST 2017
+base.0=/home/bartosz/Dokumenty/java_android/PracticeExercise/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_aa6fef858e2696a04bb8631d1c63f9b86ad8822a
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/home/bartosz/Dokumenty/java_android/PracticeExercise/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_5dada728c154c3ef663211b364f399798fa62d54/classes.dex
+base.1=/home/bartosz/Dokumenty/java_android/PracticeExercise/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_5dada728c154c3ef663211b364f399798fa62d54
+file.0=/home/bartosz/Dokumenty/java_android/PracticeExercise/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_aa6fef858e2696a04bb8631d1c63f9b86ad8822a/classes.dex

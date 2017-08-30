@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/bartosz/Dokumenty/java_android/PracticeExercise/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/home/bartosz/Dokumenty/java_android/PracticeExercise/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_aa6fef858e2696a04bb8631d1c63f9b86ad8822a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/bartosz/Dokumenty/java_android/PracticeExercise/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="078a1ec1b18c673e12b1a624be218904076ee9b3">
+        <dex dex="/home/bartosz/Dokumenty/java_android/PracticeExercise/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_5dada728c154c3ef663211b364f399798fa62d54/classes.dex" />
+    </item>
+
+</items>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.yerbaguy.practiceexercise.PracticeActivity">
+
+    <Button
+        android:id="@+id/btnPullTheWord"
+        android:layout_width="152dp"
+        android:layout_height="52dp"
+        android:text="Pull The Word"
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="16dp" />
+
+    <TextView
+        android:id="@+id/textViewPulledTheWord"
+        android:layout_width="358dp"
+        android:layout_height="41dp"
+        android:text="TextView"
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="77dp" />
+
+    <Button
+        android:id="@+id/btnSupport"
+        android:layout_width="98dp"
+        android:layout_height="43dp"
+        android:text="Support"
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="197dp" />
+
+    <TextView
+        android:id="@+id/textViewSupportWithPulledTheWord"
+        android:layout_width="358dp"
+        android:layout_height="41dp"
+        android:text="TextView"
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="134dp" />
+
+    <EditText
+        android:id="@+id/editTextEnglishWord"
+        android:layout_width="357dp"
+        android:layout_height="43dp"
+        android:ems="10"
+        android:inputType="textPersonName"
+        tools:layout_editor_absoluteX="11dp"
+        tools:layout_editor_absoluteY="257dp" />
+
+    <Button
+        android:id="@+id/btnSubmitEngWord"
+        android:layout_width="172dp"
+        android:layout_height="50dp"
+        android:text="Submit Word"
+        tools:layout_editor_absoluteX="7dp"
+        tools:layout_editor_absoluteY="315dp" />
+
+    <TextView
+        android:id="@+id/textViewAddWords"
+        android:layout_width="85dp"
+        android:layout_height="wrap_content"
+        android:text="Add Words"
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="386dp" />
+
+    <TextView
+        android:id="@+id/textViewTypedEnglishWord"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="TextView" />
+</LinearLayout>

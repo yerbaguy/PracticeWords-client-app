@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/bartosz/Dokumenty/java_android/PracticeExercise/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi/ic_launcher_round.png",
+        "source": "/home/bartosz/Dokumenty/java_android/PracticeExercise/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/bartosz/Dokumenty/java_android/PracticeExercise/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi/ic_launcher.png",
+        "source": "/home/bartosz/Dokumenty/java_android/PracticeExercise/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    }
+]

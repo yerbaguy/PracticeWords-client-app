@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/bartosz/Dokumenty/java_android/PracticeExercise/app/build/intermediates/res/merged/debug/drawable-ldrtl-mdpi-v17/abc_spinner_mtrl_am_alpha.9.png",
+        "source": "/root/.android/build-cache/8be570e9315223d8425f3b27de0f41efa2ee690c/output/res/drawable-ldrtl-mdpi-v17/abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "/home/bartosz/Dokumenty/java_android/PracticeExercise/app/build/intermediates/res/merged/debug/drawable-ldrtl-mdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "/root/.android/build-cache/8be570e9315223d8425f3b27de0f41efa2ee690c/output/res/drawable-ldrtl-mdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/home/bartosz/Dokumenty/java_android/PracticeExercise/app/build/intermediates/res/merged/debug/drawable-ldrtl-mdpi-v17/abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "/root/.android/build-cache/8be570e9315223d8425f3b27de0f41efa2ee690c/output/res/drawable-ldrtl-mdpi-v17/abc_ic_menu_cut_mtrl_alpha.png"
+    }
+]

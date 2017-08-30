@@ -1,0 +1,97 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/bartosz/Dokumenty/java_android/PracticeExercise/app/src/main/AndroidManifest.xml:2:1-24:12
+	package
+		ADDED from /home/bartosz/Dokumenty/java_android/PracticeExercise/app/src/main/AndroidManifest.xml:3:5-44
+		INJECTED from /home/bartosz/Dokumenty/java_android/PracticeExercise/app/src/main/AndroidManifest.xml
+		INJECTED from /home/bartosz/Dokumenty/java_android/PracticeExercise/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/bartosz/Dokumenty/java_android/PracticeExercise/app/src/main/AndroidManifest.xml
+		INJECTED from /home/bartosz/Dokumenty/java_android/PracticeExercise/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/bartosz/Dokumenty/java_android/PracticeExercise/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /home/bartosz/Dokumenty/java_android/PracticeExercise/app/src/main/AndroidManifest.xml
+		INJECTED from /home/bartosz/Dokumenty/java_android/PracticeExercise/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /home/bartosz/Dokumenty/java_android/PracticeExercise/app/src/main/AndroidManifest.xml:5:5-66
+	android:name
+		ADDED from /home/bartosz/Dokumenty/java_android/PracticeExercise/app/src/main/AndroidManifest.xml:5:22-64
+application
+ADDED from /home/bartosz/Dokumenty/java_android/PracticeExercise/app/src/main/AndroidManifest.xml:7:5-22:19
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /root/.android/build-cache/8be570e9315223d8425f3b27de0f41efa2ee690c/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /root/.android/build-cache/8df6c8ae7cc3a4accd08d8bd47e1b2e7e97f5cec/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /root/.android/build-cache/931cedc6fa621c8a7673f8091f7c5d1c815ea750/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /root/.android/build-cache/40ac27249c92ea974a11e3694560c918939a30d9/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /root/.android/build-cache/9b51893d10de8731c4fd58d269d2dd753319f707/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /root/.android/build-cache/5517f139c35e8018ec8d1b7ffd76ba49d2350e41/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /root/.android/build-cache/36fb4fd58cce843c9dfd9f80f8cb36b5ae376426/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /root/.android/build-cache/89524a6e07e1c0b0f60b55cf788ebb82be05abce/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /root/.android/build-cache/68bb689dd23b3fad5a4a054f7f85ad1f6e295928/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /root/.android/build-cache/e524dced21ac15d1600492aad38ceb537f441cbd/output/AndroidManifest.xml:9:5-20
+MERGED from [com.android.volley:volley:1.0.0] /root/.android/build-cache/bc46350f42b37f5bf0ff7c89dc47972f06adc4d4/output/AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from /home/bartosz/Dokumenty/java_android/PracticeExercise/app/src/main/AndroidManifest.xml:10:9-41
+	android:supportsRtl
+		ADDED from /home/bartosz/Dokumenty/java_android/PracticeExercise/app/src/main/AndroidManifest.xml:12:9-35
+	android:roundIcon
+		ADDED from /home/bartosz/Dokumenty/java_android/PracticeExercise/app/src/main/AndroidManifest.xml:11:9-54
+	android:allowBackup
+		ADDED from /home/bartosz/Dokumenty/java_android/PracticeExercise/app/src/main/AndroidManifest.xml:8:9-35
+	android:icon
+		ADDED from /home/bartosz/Dokumenty/java_android/PracticeExercise/app/src/main/AndroidManifest.xml:9:9-43
+	android:theme
+		ADDED from /home/bartosz/Dokumenty/java_android/PracticeExercise/app/src/main/AndroidManifest.xml:13:9-40
+activity#com.yerbaguy.practiceexercise.PracticeActivity
+ADDED from /home/bartosz/Dokumenty/java_android/PracticeExercise/app/src/main/AndroidManifest.xml:14:9-20:20
+	android:name
+		ADDED from /home/bartosz/Dokumenty/java_android/PracticeExercise/app/src/main/AndroidManifest.xml:14:19-51
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/bartosz/Dokumenty/java_android/PracticeExercise/app/src/main/AndroidManifest.xml:15:13-19:29
+action#android.intent.action.MAIN
+ADDED from /home/bartosz/Dokumenty/java_android/PracticeExercise/app/src/main/AndroidManifest.xml:16:17-69
+	android:name
+		ADDED from /home/bartosz/Dokumenty/java_android/PracticeExercise/app/src/main/AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/bartosz/Dokumenty/java_android/PracticeExercise/app/src/main/AndroidManifest.xml:18:17-77
+	android:name
+		ADDED from /home/bartosz/Dokumenty/java_android/PracticeExercise/app/src/main/AndroidManifest.xml:18:27-74
+activity#com.yerbaguy.practiceexercise.AddWordsActivity
+ADDED from /home/bartosz/Dokumenty/java_android/PracticeExercise/app/src/main/AndroidManifest.xml:21:9-63
+	android:name
+		ADDED from /home/bartosz/Dokumenty/java_android/PracticeExercise/app/src/main/AndroidManifest.xml:21:19-51
+uses-sdk
+INJECTED from /home/bartosz/Dokumenty/java_android/PracticeExercise/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /root/.android/build-cache/8be570e9315223d8425f3b27de0f41efa2ee690c/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /root/.android/build-cache/8df6c8ae7cc3a4accd08d8bd47e1b2e7e97f5cec/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /root/.android/build-cache/931cedc6fa621c8a7673f8091f7c5d1c815ea750/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /root/.android/build-cache/40ac27249c92ea974a11e3694560c918939a30d9/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /root/.android/build-cache/9b51893d10de8731c4fd58d269d2dd753319f707/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /root/.android/build-cache/5517f139c35e8018ec8d1b7ffd76ba49d2350e41/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /root/.android/build-cache/36fb4fd58cce843c9dfd9f80f8cb36b5ae376426/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /root/.android/build-cache/89524a6e07e1c0b0f60b55cf788ebb82be05abce/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /root/.android/build-cache/68bb689dd23b3fad5a4a054f7f85ad1f6e295928/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /root/.android/build-cache/e524dced21ac15d1600492aad38ceb537f441cbd/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.volley:volley:1.0.0] /root/.android/build-cache/bc46350f42b37f5bf0ff7c89dc47972f06adc4d4/output/AndroidManifest.xml:7:5-43
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /root/.android/build-cache/8be570e9315223d8425f3b27de0f41efa2ee690c/output/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /home/bartosz/Dokumenty/java_android/PracticeExercise/app/src/main/AndroidManifest.xml
+		INJECTED from /home/bartosz/Dokumenty/java_android/PracticeExercise/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/bartosz/Dokumenty/java_android/PracticeExercise/app/src/main/AndroidManifest.xml
+		INJECTED from /home/bartosz/Dokumenty/java_android/PracticeExercise/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /root/.android/build-cache/8be570e9315223d8425f3b27de0f41efa2ee690c/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /root/.android/build-cache/8df6c8ae7cc3a4accd08d8bd47e1b2e7e97f5cec/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /root/.android/build-cache/931cedc6fa621c8a7673f8091f7c5d1c815ea750/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /root/.android/build-cache/40ac27249c92ea974a11e3694560c918939a30d9/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /root/.android/build-cache/9b51893d10de8731c4fd58d269d2dd753319f707/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /root/.android/build-cache/5517f139c35e8018ec8d1b7ffd76ba49d2350e41/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /root/.android/build-cache/36fb4fd58cce843c9dfd9f80f8cb36b5ae376426/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /root/.android/build-cache/89524a6e07e1c0b0f60b55cf788ebb82be05abce/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /root/.android/build-cache/68bb689dd23b3fad5a4a054f7f85ad1f6e295928/output/AndroidManifest.xml:25:5-27:41
+	android:value
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /root/.android/build-cache/8be570e9315223d8425f3b27de0f41efa2ee690c/output/AndroidManifest.xml:27:9-38
+	android:name
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /root/.android/build-cache/8be570e9315223d8425f3b27de0f41efa2ee690c/output/AndroidManifest.xml:26:9-47

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/bartosz/Dokumenty/java_android/PracticeExercise/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/root/.android/build-cache/8be570e9315223d8425f3b27de0f41efa2ee690c/output/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/home/bartosz/Dokumenty/java_android/PracticeExercise/app/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
+        "source": "/root/.android/build-cache/8be570e9315223d8425f3b27de0f41efa2ee690c/output/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/home/bartosz/Dokumenty/java_android/PracticeExercise/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/root/.android/build-cache/8be570e9315223d8425f3b27de0f41efa2ee690c/output/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/home/bartosz/Dokumenty/java_android/PracticeExercise/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/root/.android/build-cache/8be570e9315223d8425f3b27de0f41efa2ee690c/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    }
+]
