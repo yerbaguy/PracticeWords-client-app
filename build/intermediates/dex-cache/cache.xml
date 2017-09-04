@@ -3,20 +3,128 @@
 
     <item
         is-multidex="true"
+        jar="/home/bartosz/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/home/bartosz/Dokumenty/java_android/PracticeExercise/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_213710b7d1e398a5cddb08afa709fd301503c42f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/f0b0009891df29c1c4c420d3f6c5f3f83e9df109/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="/home/bartosz/Dokumenty/java_android/PracticeExercise/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_85b0a32476cfac52521a83fed432c512de24d2d9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="/home/bartosz/Dokumenty/java_android/PracticeExercise/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
         jumboMode="true"
         optimize="true"
-        revision="26.0.0"
+        revision="26.0.1"
         sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
         <dex dex="/home/bartosz/Dokumenty/java_android/PracticeExercise/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_aa6fef858e2696a04bb8631d1c63f9b86ad8822a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/707cb7a401d65df7a725f70e5bf7f6a7a3d828b4/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="/home/bartosz/Dokumenty/java_android/PracticeExercise/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3e27c14ad34f7fe577e2cc43bdd3bc6edf50ec59/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/bae463f3af963901d7cce9d6c8b565f340e2bfab/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="/home/bartosz/Dokumenty/java_android/PracticeExercise/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_faab9db4b882a4a582f8b70e69ba043db4b361f3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/b288951fef2453c404fbce9051be43275e63cfd9/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/bartosz/Dokumenty/java_android/PracticeExercise/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9705d35fcbfc59de61e039d1b49ada8695427bca/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/3f8a59f53cc2a38288d738be8e94f70948990e1d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="/home/bartosz/Dokumenty/java_android/PracticeExercise/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7db3386f0c39653cf65cfc0ce86d817e7ea59043/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/44998ba6debb1c283166d191e6306ec97bb25253/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="/home/bartosz/Dokumenty/java_android/PracticeExercise/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f6820e35959943b52697439c20a8f7f8bdc58be7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/d20e350bed81111eb0f7e3e5914ad3f6920cb1a7/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="/home/bartosz/Dokumenty/java_android/PracticeExercise/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_81e8157827d879d95e06e4fa98b8719857c1761f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/afe361b089a93741b0eb00f99531588742aae351/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="/home/bartosz/Dokumenty/java_android/PracticeExercise/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b9fe5cb05d91a9249b046fab348fb354028eab63/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/e4a1d37bc951cba3a82a0cf3f36b8beb65b6dc31/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="/home/bartosz/Dokumenty/java_android/PracticeExercise/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a3ea4f301034f3849977d3a737b0b32d7860206d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/bartosz/extras/android/m2repository/com/android/support/support-annotations/26.0.0-alpha1/support-annotations-26.0.0-alpha1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="/home/bartosz/Dokumenty/java_android/PracticeExercise/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-26.0.0-alpha1_f92777398767a0ab5250e8024493491f7c0a3262/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/baa8bbb74158893325a589788f547594439fee29/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/home/bartosz/Dokumenty/java_android/PracticeExercise/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9c0bccc65cb37efbb195210037531fe2e6687fab/classes.dex" />
     </item>
     <item
         is-multidex="true"
         jar="/home/bartosz/Dokumenty/java_android/PracticeExercise/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
         jumboMode="true"
         optimize="true"
-        revision="26.0.0"
-        sha1="cd3a8c8629346de651a7433b318b3f532583ff42">
+        revision="26.0.1"
+        sha1="9968d63af7e51650b40c2c382e80b69be0d747e0">
         <dex dex="/home/bartosz/Dokumenty/java_android/PracticeExercise/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_5dada728c154c3ef663211b364f399798fa62d54/classes.dex" />
     </item>
 

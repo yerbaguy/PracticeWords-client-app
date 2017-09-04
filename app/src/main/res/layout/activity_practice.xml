@@ -5,11 +5,12 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    tools:context="com.yerbaguy.practiceexercise.PracticeActivity">
+    tools:context="com.yerbaguy.practiceexercise.PracticeActivity"
+    android:weightSum="1">
 
     <Button
         android:id="@+id/btnPullTheWord"
-        android:layout_width="152dp"
+        android:layout_width="166dp"
         android:layout_height="52dp"
         android:text="Pull The Word"
         tools:layout_editor_absoluteX="16dp"
@@ -17,50 +18,55 @@
 
     <TextView
         android:id="@+id/textViewPulledTheWord"
-        android:layout_width="358dp"
+        android:layout_width="288dp"
         android:layout_height="41dp"
         android:text="TextView"
-        tools:layout_editor_absoluteX="16dp"
-        tools:layout_editor_absoluteY="77dp" />
+        tools:layout_editor_absoluteX="186dp"
+        tools:layout_editor_absoluteY="22dp"
+        android:layout_weight="0.00" />
+
+    <TextView
+        android:id="@+id/textViewSupport"
+        android:layout_width="292dp"
+        android:layout_height="46dp"
+        android:text="TextView" />
 
     <Button
         android:id="@+id/btnSupport"
-        android:layout_width="98dp"
-        android:layout_height="43dp"
-        android:text="Support"
-        tools:layout_editor_absoluteX="16dp"
-        tools:layout_editor_absoluteY="197dp" />
+        android:layout_width="151dp"
+        android:layout_height="wrap_content"
+        android:text="Button" />
 
     <TextView
-        android:id="@+id/textViewSupportWithPulledTheWord"
-        android:layout_width="358dp"
-        android:layout_height="41dp"
-        android:text="TextView"
-        tools:layout_editor_absoluteX="16dp"
-        tools:layout_editor_absoluteY="134dp" />
+        android:id="@+id/textViewTypedEngWord"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="0.09"
+        android:text="TextView" />
 
     <EditText
         android:id="@+id/editTextEnglishWord"
-        android:layout_width="357dp"
-        android:layout_height="43dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
         android:ems="10"
-        android:inputType="textPersonName"
-        tools:layout_editor_absoluteX="11dp"
-        tools:layout_editor_absoluteY="257dp" />
+        android:inputType="textPersonName" />
 
     <Button
         android:id="@+id/btnSubmitEngWord"
-        android:layout_width="172dp"
-        android:layout_height="50dp"
-        android:text="Submit Word"
-        tools:layout_editor_absoluteX="7dp"
-        tools:layout_editor_absoluteY="315dp" />
+        android:layout_width="199dp"
+        android:layout_height="59dp"
+        android:text="Submit" />
 
     <TextView
         android:id="@+id/textViewAddWords"
-        android:layout_width="85dp"
+        android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Add Words"
-        tools:layout_editor_absoluteX="16dp"
-        tools:layout_editor_absoluteY="386dp" />
+        android:text="Add Words" />
+
+    <TextView
+        android:id="@+id/textViewTypedEnglishWord"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="0.14"
+        android:text="TextView" />
 </LinearLayout>
